@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+}
+h1, p {
+    color: white;
+}
+
+
+.selector-for-some-widget
+{
+  box-sizing: content-box;
+}
+
+
+.row {
+  height: 100vh;
+}
+
+.col-sm-6{
+  text-align: center;
+}
+
+i {
+  color: white;
+}
